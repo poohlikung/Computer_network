@@ -1,0 +1,1 @@
+console.log("addcard.js loaded");
