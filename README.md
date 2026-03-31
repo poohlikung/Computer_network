@@ -1,7 +1,7 @@
 
 # Network-Portfolio
 
-นายสรวิชญ์ วันเสน รหัสนักศึกษา 67338006-8 Section 2
+นายสรวิชญ์ วันเสน รหัสนักศึกษา 673380064-8 Section 2
 
 Email : sorawit.wan@kkumail.com
 
