@@ -34,5 +34,8 @@ Project Demo:
 - [@(Week 1–10) repository](https://github.com/poohlikung/comnetwork)
 
 
-## 📄 Certificate
+## 📄 Certificate getting started with cisco packet tracer
 ![Logo](https://img.sanishtech.com/u/cb6b0d324c3413337cee09164f75c89f.png)
+
+## 📄 Certificate Introduction to Networks
+[![repo.png](https://i.postimg.cc/sXcSp4Wy/repo.png)](https://postimg.cc/BLjX3DNw)
