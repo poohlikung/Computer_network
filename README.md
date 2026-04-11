@@ -13,11 +13,6 @@ This repository contains my assignments, labs, projects, and certificates relate
 
 
 
-## 📄 Personal Assignment
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
 ## 🚀 Final Project
 
 Project repository:
