@@ -30,7 +30,7 @@ Project Demo:
 
 
 ## 📄 Certificate getting started with cisco packet tracer
-[![repo.png](https://img.sanishtech.com/u/cb6b0d324c3413337cee09164f75c89f.png)
+[![repo.png](https://i.ibb.co/PskT7Br6/Certificate.png)
 
 ## 📄 Certificate Introduction to Networks
 [![repo.png](https://i.postimg.cc/sXcSp4Wy/repo.png)](https://postimg.cc/BLjX3DNw)
