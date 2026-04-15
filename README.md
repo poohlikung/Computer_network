@@ -16,7 +16,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 ## 🚀 Final Project
 
 Project repository:
-![Logo](https://img.sanishtech.com/u/ee870c3f868a9c1363ed94769deef3b8.png)
+![Logo](https://getshared.com/d/uSRkpmsT)
 - [@Project repository(Omnitrix)](https://github.com/BossZY27/pronetwork)
 
 Project Demo:
