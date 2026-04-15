@@ -20,12 +20,12 @@ Project repository:
 - [@Project repository(Omnitrix)](https://github.com/BossZY27/pronetwork)
 
 Project Demo:
-![Logo](https://img.sanishtech.com/u/d89f9ba5f06ebd51773541c26c6e7e61.png)
+![image](https://i.ibb.co/RpJ83fbY/repo.png)
 - [@Project demo(Omnitrix)](https://keattisakn-alt.github.io/onet-simulation/simulation.html)
 
 
 ## 💻 Network Programming (Week 1–10):
-![Logo](https://img.sanishtech.com/u/713510f5b7f3a6b5b685c41c460295d4.png)
+![image](https://i.ibb.co/WhzSPKH/repo.png)
 - [@(Week 1–10) repository](https://github.com/poohlikung/comnetwork)
 
 
