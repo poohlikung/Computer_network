@@ -16,7 +16,7 @@ This repository contains my assignments, labs, projects, and certificates relate
 ## 🚀 Final Project
 
 Project repository:
-![image](https://ibb.co/3yz0XdG4)
+![image](https://i.ibb.co/mC8HsT1b/repo.png)
 - [@Project repository(Omnitrix)](https://github.com/BossZY27/pronetwork)
 
 Project Demo:
